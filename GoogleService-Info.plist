@@ -1,1 +1,40 @@
-<!-- Dummy GoogleService-Info file !! replace with your configuration -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>135410321404-cs7me341b2r8jsqbgllr26gcoqgordqp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.135410321404-cs7me341b2r8jsqbgllr26gcoqgordqp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSZgCayLFJx5E-6J9tVge7x7ViasP8CIQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>135410321404</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dl.sdccards</string>
+	<key>PROJECT_ID</key>
+	<string>sdc-cards</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sdc-cards.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:135410321404:ios:f9dff1d936f1b5c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://sdc-cards.firebaseio.com</string>
+</dict>
+</plist>
