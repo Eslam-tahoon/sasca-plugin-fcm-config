@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "456113984219",
-    "firebase_url": "https://sdc-cards-development.firebaseio.com",
-    "project_id": "sdc-cards-development",
-    "storage_bucket": "sdc-cards-development.appspot.com"
+    "project_number": "135410321404",
+    "firebase_url": "https://sdc-cards.firebaseio.com",
+    "project_id": "sdc-cards",
+    "storage_bucket": "sdc-cards.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:456113984219:android:1f355dfc84849399",
+        "mobilesdk_app_id": "1:135410321404:android:f9dff1d936f1b5c5",
         "android_client_info": {
-          "package_name": "com.dl.sdccards_dev"
+          "package_name": "com.dl.sdccards"
         }
       },
       "oauth_client": [
         {
-          "client_id": "456113984219-0mu9f9dmjsum0aasitcug6d248dohce6.apps.googleusercontent.com",
+          "client_id": "135410321404-r635mvvkd78tvd5p9a8dbtgv9lek92s2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAgpsS1z6413tSEDAInIE0gYN-q6tjKrfs"
+          "current_key": "AIzaSyC_W3kAcySDRcd6bY4Sp3-JSSVKt2xX3Mo"
         }
       ],
       "services": {
