@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>135410321404-cs7me341b2r8jsqbgllr26gcoqgordqp.apps.googleusercontent.com</string>
+	<string>448563245863-cg6uc398rcqqccr5uhi2bfpkro1l5e7d.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.135410321404-cs7me341b2r8jsqbgllr26gcoqgordqp</string>
+	<string>com.googleusercontent.apps.448563245863-cg6uc398rcqqccr5uhi2bfpkro1l5e7d</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCSZgCayLFJx5E-6J9tVge7x7ViasP8CIQ</string>
+	<string>AIzaSyC0wRaZp5gsRcfRl0AAcMc2bEGK4R0Y0-Y</string>
 	<key>GCM_SENDER_ID</key>
-	<string>135410321404</string>
+	<string>448563245863</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dl.sdccards</string>
+	<string>com.shortcuts.zadcom</string>
 	<key>PROJECT_ID</key>
-	<string>sdc-cards</string>
+	<string>zadcom-2018</string>
 	<key>STORAGE_BUCKET</key>
-	<string>sdc-cards.appspot.com</string>
+	<string>zadcom-2018.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
+	<false></false>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:135410321404:ios:f9dff1d936f1b5c5</string>
+	<string>1:448563245863:ios:220e2d7865d1dcc5</string>
 	<key>DATABASE_URL</key>
-	<string>https://sdc-cards.firebaseio.com</string>
+	<string>https://zadcom-2018.firebaseio.com</string>
 </dict>
 </plist>
