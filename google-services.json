@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "448563245863",
-    "firebase_url": "https://zadcom-2018.firebaseio.com",
-    "project_id": "zadcom-2018",
-    "storage_bucket": "zadcom-2018.appspot.com"
+    "project_number": "117819734543",
+    "firebase_url": "https://sasca-13ab0.firebaseio.com",
+    "project_id": "sasca-13ab0",
+    "storage_bucket": "sasca-13ab0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:448563245863:android:220e2d7865d1dcc5",
+        "mobilesdk_app_id": "1:117819734543:android:a52099793a6000fc",
         "android_client_info": {
-          "package_name": "com.shortcuts.zadcom"
+          "package_name": "com.shortcuts.sasca"
         }
       },
       "oauth_client": [
         {
-          "client_id": "448563245863-9b37tugmcpf5gotpr5lk1qb24jnd8b35.apps.googleusercontent.com",
+          "client_id": "117819734543-6cibisocrt1v2lfe4o4do0ncprsk38hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shortcuts.sasca",
+            "certificate_hash": "ea425c783ce0a4e8a34bf0ab30b4215e6cc07569"
+          }
+        },
+        {
+          "client_id": "117819734543-i14qjgd4f60oh7sjk1nmr1qq4a2klpfa.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCx04oqw7yQLdqAxfIFNC1ylmGzbzry7xw"
+          "current_key": "AIzaSyC4yKtn12NW3QtNJVohY6dvFwhgEbYVzhI"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117819734543-i14qjgd4f60oh7sjk1nmr1qq4a2klpfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
