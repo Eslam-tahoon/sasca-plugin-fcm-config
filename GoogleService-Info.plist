@@ -7,9 +7,9 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>117819734543-uddbgf2lmo6dtei9eo8fg15lvurog4j6.apps.googleusercontent.com</string>
+	<string>117819734543-9bb0c4huejjuijso7su7p168njied8c7.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.117819734543-uddbgf2lmo6dtei9eo8fg15lvurog4j6</string>
+	<string>com.googleusercontent.apps.117819734543-9bb0c4huejjuijso7su7p168njied8c7</string>
 	<key>API_KEY</key>
 	<string>AIzaSyCkBK5lEkjKCPn20p-3fc2DXp1xXTiYBcE</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.shortcuts.sasca</string>
+	<string>com.shortcuts.sascaapp</string>
 	<key>PROJECT_ID</key>
 	<string>sasca-13ab0</string>
 	<key>STORAGE_BUCKET</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:117819734543:ios:a52099793a6000fc</string>
+	<string>1:117819734543:ios:0ba5809f371e9733</string>
 	<key>DATABASE_URL</key>
 	<string>https://sasca-13ab0.firebaseio.com</string>
 </dict>
